@@ -7,11 +7,13 @@
 	
 ## 👨‍💻 About Me
 
-- Software developer specialized in **Android development with Kotlin**.  
-- 2 years of experience in mobile development, building high-quality Android applications.  
-- Skilled in REST API integration, bug fixing, and implementing scalable features.  
+- Android Developer with professional experience in mobile development, building high-quality mobile applications.  
+- Skilled in REST API integration, debugging, and implementing scalable features.  
 - Based in Bogotá, Colombia.
+- Fluent in Spanish, B2 English certified.
 - Creative, proactive, and always eager to learn and grow as a developer.
+
+💡 Fun fact: I like to see life as a game, every challenge is just a quest to level up.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -43,13 +45,8 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
 
 <p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRamirezM&langs_count=8&theme=react&layout=compact)](https://github.com/SergioRamirezM/github-readme-stats)  
-
-<br>  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SergioRamirezM&theme=react)](https://git.io/streak-stats)
 
@@ -66,4 +63,4 @@ If you'd like to talk about **Android development**, collaborate on a project, o
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">⚡ Thanks for visiting my profile! Keep coding and building amazing things. ⚡</p>
+<p align="center">⚡ Thanks for visiting my profile! Every commit is one step closer to the next level. ⚡</p>
